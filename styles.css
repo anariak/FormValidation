@@ -1,0 +1,13 @@
+body{
+    font-family: "Lato", sans-serif;
+}
+fieldset{
+    border: none;
+    margin: unset;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-weight: 800;
+
+}
